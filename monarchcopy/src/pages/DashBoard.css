@@ -1,0 +1,13 @@
+.container {
+    display: inline;
+    flex-direction: row;
+    height: 100vh; /* Adjust as needed */
+  }
+  
+  .section {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
